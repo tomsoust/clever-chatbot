@@ -30,6 +30,8 @@ This will start a web interface where you can interact with the chatbot.
 
 - Intelligent conversational agent powered by LangChain
 - Internet search capabilities via Tavily for fact-checking and up-to-date information
+- <img width="627" alt="Screenshot 2025-03-07 at 9 04 43 am" src="https://github.com/user-attachments/assets/a637a20b-9647-4f35-8536-7b2c68ac4f7d" />
+
 - Streamlit-based user interface
 - Transparent reasoning displayed in the terminal as the agent works through queries
 - Reduced hallucinations through grounding responses in verified search results
