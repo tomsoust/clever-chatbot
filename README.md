@@ -24,6 +24,7 @@ streamlit run my_langgraph_app.py
 ```
 
 This will start a web interface where you can interact with the chatbot.
+<img width="759" alt="Screenshot 2025-03-07 at 8 25 21 am" src="https://github.com/user-attachments/assets/201e9a86-3194-4acc-925b-6d3c447d9e2f" />
 
 ## Features
 
@@ -34,6 +35,9 @@ This will start a web interface where you can interact with the chatbot.
 - Reduced hallucinations through grounding responses in verified search results
 - Source validation with references to information origins
 - Verbose mode shows the agent's thought process, action selection, and information evaluation in real-time in the terminal
+<img width="1379" alt="Screenshot 2025-03-07 at 8 25 47 am" src="https://github.com/user-attachments/assets/814a78c6-8870-48c9-bb21-3475a995d185" />
+
+- 
 
 The verbose output in the terminal allows you to see exactly how the agent:
 - Parses and interprets your question
